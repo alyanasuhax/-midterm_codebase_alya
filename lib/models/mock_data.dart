@@ -6,24 +6,21 @@ import 'text_data.dart';
 //final taskList = <Task>[];
 
 List<Task> taskList = [
-  Task(title: "What is Flutter?", items: [
+  Task(title: "Develop a front-end mockup", items: [
     TextData(
-      text:
-          "Flutter is an open-source UI framework for creating native mobile application. It allows developers to built mobile applications a single codebase.",
+      text: "",
       bold: true,
     ),
   ]),
-  Task(title: "Stateful Widgets", items: [
+  Task(title: "Design the database", items: [
     TextData(
-      text:
-          "The widgets whose state can be altered once they are built are called Stateful Widgets.",
+      text: "",
       bold: true,
     ),
   ]),
-  Task(title: "Conditional (ternary) operator", items: [
+  Task(title: "Develop the backend", items: [
     TextData(
-      text:
-          "The conditional (ternary) operator in Dart takes three operands: a condition, first expression (if truthy) and second expression (if falsy).",
+      text: "",
       bold: true,
     ),
   ]),
